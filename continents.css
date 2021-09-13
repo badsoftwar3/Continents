@@ -1,0 +1,19 @@
+WM{
+    height: 400px;
+    width: 300px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center ;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.center{
+    margin-left:auto ;
+    margin-right: auto;
+}
